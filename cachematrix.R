@@ -77,6 +77,8 @@ cacheSolve(fun)
 
 ## Retrieving from the cache in the second run
 
+cacheSolve(fun)
+
 ##getting cached data.
 ##        [,1] [,2]
 ##  [1,]   -2  1.5
